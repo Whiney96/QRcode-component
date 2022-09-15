@@ -1,42 +1,34 @@
-/* 
-- Mobile: 375px
-- Desktop: 1440px
- */
 * {
     font-family: 'Outfit', sans-serif;
     overflow: hidden;
 }
 body {
     background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-#main-container {
+main {
     max-width: 280px;
     min-width: 280px;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     border-radius: 15px;
-    margin: 0 auto;
-    position: absolute;
-    top: 15%;
-    left: 50%;
-    transform: translate(-50%, 0%);
-}
-#img-container, #text-container {
-    margin: auto;
 }
 img {
     width: 100%;
     border-radius: 15px;
 }
-#text-container {
+p, h1 {
     text-align: center;
-    width: 98%;
 }
-#text-container p {
+p {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
-    padding: 0 5px;
+    padding: 0 8px;
 }
-#text-container h2 {
+h1 {
     color: hsl(218, 44%, 22%);
+    font-size: 20px;
 }

@@ -11,6 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgement](#Acknowledgement)
 
 ## Overview
 
@@ -40,3 +41,7 @@ As I progress in my knowledge of JavaScript, I would love to apply it into a bas
 - Frontend Mentor - [@whiney96](https://www.frontendmentor.io/profile/whiney96)
 - Twitter - [@uziwinnie](https://www.twitter.com/uziwinnie)
 - LinkedIn - [@uziwinnie](https://www.linkedin.com/in/uziwinnie)
+
+## Acknowledgement
+
+Special thanks to friends on the Frontend Mentor community for their feedback and suggestions. Some of them are: Lucas, Anita and Jose.
